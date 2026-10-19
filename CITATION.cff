@@ -1,0 +1,21 @@
+cff-version: 1.2.0
+title: >-
+  Multi-criteria evaluation of competing offers in U.S. residential real
+  estate: analysis code and supporting data
+message: If you use this software or dataset, please cite it as below.
+type: software
+authors:
+  - family-names: Bhatta
+    given-names: Pushpa Raj
+  - family-names: Shakya
+    given-names: Manoj
+license: MIT
+doi: 10.5281/zenodo.23465853
+repository-code: https://github.com/pushparajbhatta/offer-evaluation-mcda
+version: 1.0.0
+date-released: 2026-10-19
+keywords:
+  - analytic hierarchy process
+  - multi-criteria decision making
+  - real estate
+  - decision support systems

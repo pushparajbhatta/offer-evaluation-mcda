@@ -1,0 +1,7 @@
+code,name,direction,definition,unit,normalisation
+NP,Net Proceeds,Benefit,"Offer price less discount and all seller-borne contributions (buyer agent commission, buyer closing cost, down payment assistance)",USD,value / max(value)
+CoC,Certainty of Close,Benefit,"Likelihood the transaction completes, mapped from the financing arrangement",score 0-1,"rule map: all cash 1.0, conventional loan 0.8, contract for deed 0.6, other 0.5"
+TF,Timeline Fit,Benefit,Proximity of the proposed closing date to the seller's preferred closing date,score 0-1,"max(0, 1 - |d - d*| / 30)"
+CR,Contingency Risk,Cost,"Exposure to delay and renegotiation: seller-paid repairs, replacements, other requests, plus inspection period priced at 1000 USD per day",USD equivalent,min(x) / x
+SEI,Seller Expense Impact,Cost,Direct financial obligations the buyer asks the seller to carry,USD,"min(x) / x, with zero expense mapped to 1.0"
+IPF,Immediate Possession Fit,Benefit,Whether the offer accommodates the seller's immediate possession requirement,binary,"yes = 1, no = 0"

@@ -1,0 +1,6 @@
+offer_id,offer_price,earnest_money,proposed_closing_date,immediate_possession,discount_amount,buyer_agent_commission_paid_by_seller,buyer_agent_commission_amount,buyer_closing_cost_paid_by_seller,buyer_closing_cost_amount,down_payment_assistance_paid_by_seller,down_payment_assistance_amount,additional_assistance_required_by_buyer,additional_assistance_amount,repairs_paid_by_seller,repairs_amount,replacement_items_paid_by_seller,replacement_items_amount,other_requests_requested_by_buyer,other_requests_amount,inspection_requested,inspection_days,all_cash,bank_loan_amount,down_payment_to_bank,other_financing,sale_contingent_on_other_property,property_tax_payment
+1,380000,10000,2025-10-20,yes,15000,no,0,no,0,yes,5000,no,0,yes,2000,no,0,no,0,yes,7,no,350000,30000,None,no,buyer/seller pro rate
+2,385000,12000,2025-10-25,no,10000,yes,4000,no,0,no,0,no,0,yes,1500,no,0,no,0,yes,10,yes,0,0,None,no,seller pay all
+3,390000,15000,2025-10-30,yes,5000,no,0,yes,2000,yes,7000,no,0,no,0,yes,1000,yes,500,yes,5,no,350000,35000,Contract for deed,yes,buyer pay all
+4,382000,10000,2025-10-28,no,8000,no,0,no,0,no,0,no,0,yes,2500,no,0,no,0,yes,8,yes,0,0,None,no,seller pay all
+5,387000,12000,2025-10-26,yes,3000,yes,3000,no,0,no,0,no,0,yes,1000,no,0,no,0,yes,6,no,350000,37000,None,no,buyer/seller pro rate

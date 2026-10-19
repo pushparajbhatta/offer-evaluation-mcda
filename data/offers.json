@@ -1,0 +1,242 @@
+[
+  {
+    "id": 1,
+    "offer_price": 380000,
+    "earnest_money": 10000,
+    "proposed_closing_date": "2025-10-20",
+    "immediate_possession": "yes",
+    "discount_amount": 15000,
+    "buyer_agent_commission": {
+      "paid_by_seller": "no",
+      "amount": 0
+    },
+    "buyer_closing_cost": {
+      "paid_by_seller": "no",
+      "amount": 0
+    },
+    "down_payment_assistance": {
+      "paid_by_seller": "yes",
+      "amount": 5000
+    },
+    "additional_assistance": {
+      "required_by_buyer": "no",
+      "amount": 0
+    },
+    "repairs": {
+      "paid_by_seller": "yes",
+      "amount": 2000
+    },
+    "replacement_items": {
+      "paid_by_seller": "no",
+      "amount": 0
+    },
+    "other_requests": {
+      "requested_by_buyer": "no",
+      "amount": 0
+    },
+    "inspection_request": {
+      "requested": "yes",
+      "days": 7
+    },
+    "cash_offer": {
+      "all_cash": "no",
+      "bank_loan_amount": 350000
+    },
+    "down_payment_to_bank": 30000,
+    "other_financing": "None",
+    "sale_contingent_on_other_property": "no",
+    "property_tax_payment": "buyer/seller pro rate"
+  },
+  {
+    "id": 2,
+    "offer_price": 385000,
+    "earnest_money": 12000,
+    "proposed_closing_date": "2025-10-25",
+    "immediate_possession": "no",
+    "discount_amount": 10000,
+    "buyer_agent_commission": {
+      "paid_by_seller": "yes",
+      "amount": 4000
+    },
+    "buyer_closing_cost": {
+      "paid_by_seller": "no",
+      "amount": 0
+    },
+    "down_payment_assistance": {
+      "paid_by_seller": "no",
+      "amount": 0
+    },
+    "additional_assistance": {
+      "required_by_buyer": "no",
+      "amount": 0
+    },
+    "repairs": {
+      "paid_by_seller": "yes",
+      "amount": 1500
+    },
+    "replacement_items": {
+      "paid_by_seller": "no",
+      "amount": 0
+    },
+    "other_requests": {
+      "requested_by_buyer": "no",
+      "amount": 0
+    },
+    "inspection_request": {
+      "requested": "yes",
+      "days": 10
+    },
+    "cash_offer": {
+      "all_cash": "yes",
+      "bank_loan_amount": 0
+    },
+    "down_payment_to_bank": 0,
+    "other_financing": "None",
+    "sale_contingent_on_other_property": "no",
+    "property_tax_payment": "seller pay all"
+  },
+  {
+    "id": 3,
+    "offer_price": 390000,
+    "earnest_money": 15000,
+    "proposed_closing_date": "2025-10-30",
+    "immediate_possession": "yes",
+    "discount_amount": 5000,
+    "buyer_agent_commission": {
+      "paid_by_seller": "no",
+      "amount": 0
+    },
+    "buyer_closing_cost": {
+      "paid_by_seller": "yes",
+      "amount": 2000
+    },
+    "down_payment_assistance": {
+      "paid_by_seller": "yes",
+      "amount": 7000
+    },
+    "additional_assistance": {
+      "required_by_buyer": "no",
+      "amount": 0
+    },
+    "repairs": {
+      "paid_by_seller": "no",
+      "amount": 0
+    },
+    "replacement_items": {
+      "paid_by_seller": "yes",
+      "amount": 1000
+    },
+    "other_requests": {
+      "requested_by_buyer": "yes",
+      "amount": 500
+    },
+    "inspection_request": {
+      "requested": "yes",
+      "days": 5
+    },
+    "cash_offer": {
+      "all_cash": "no",
+      "bank_loan_amount": 350000
+    },
+    "down_payment_to_bank": 35000,
+    "other_financing": "Contract for deed",
+    "sale_contingent_on_other_property": "yes",
+    "property_tax_payment": "buyer pay all"
+  },
+  {
+    "id": 4,
+    "offer_price": 382000,
+    "earnest_money": 10000,
+    "proposed_closing_date": "2025-10-28",
+    "immediate_possession": "no",
+    "discount_amount": 8000,
+    "buyer_agent_commission": {
+      "paid_by_seller": "no",
+      "amount": 0
+    },
+    "buyer_closing_cost": {
+      "paid_by_seller": "no",
+      "amount": 0
+    },
+    "down_payment_assistance": {
+      "paid_by_seller": "no",
+      "amount": 0
+    },
+    "additional_assistance": {
+      "required_by_buyer": "no",
+      "amount": 0
+    },
+    "repairs": {
+      "paid_by_seller": "yes",
+      "amount": 2500
+    },
+    "replacement_items": {
+      "paid_by_seller": "no",
+      "amount": 0
+    },
+    "other_requests": {
+      "requested_by_buyer": "no",
+      "amount": 0
+    },
+    "inspection_request": {
+      "requested": "yes",
+      "days": 8
+    },
+    "cash_offer": {
+      "all_cash": "yes",
+      "bank_loan_amount": 0
+    },
+    "down_payment_to_bank": 0,
+    "other_financing": "None",
+    "sale_contingent_on_other_property": "no",
+    "property_tax_payment": "seller pay all"
+  },
+  {
+    "id": 5,
+    "offer_price": 387000,
+    "earnest_money": 12000,
+    "proposed_closing_date": "2025-10-26",
+    "immediate_possession": "yes",
+    "discount_amount": 3000,
+    "buyer_agent_commission": {
+      "paid_by_seller": "yes",
+      "amount": 3000
+    },
+    "buyer_closing_cost": {
+      "paid_by_seller": "no",
+      "amount": 0
+    },
+    "down_payment_assistance": {
+      "paid_by_seller": "no",
+      "amount": 0
+    },
+    "additional_assistance": {
+      "required_by_buyer": "no",
+      "amount": 0
+    },
+    "repairs": {
+      "paid_by_seller": "yes",
+      "amount": 1000
+    },
+    "replacement_items": {
+      "paid_by_seller": "no",
+      "amount": 0
+    },
+    "other_requests": {
+      "requested_by_buyer": "no",
+      "amount": 0
+    },
+    "inspection_request": {
+      "requested": "yes",
+      "days": 6
+    },
+    "cash_offer": {
+      "all_cash": "no",
+      "bank_loan_amount": 350000
+    },
+    "down_payment_to_bank": 37000,
+    "other_financing": "None",
+    "sale_contingent_on_other_property": "no",
+    "property_tax_payment": "buyer/seller pro rate"
+  }
+]
